@@ -1,0 +1,31 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.card1{
+ width: 410px;
+ height: 205px;
+ background-color: rgb(73, 73, 232);
+
+}
+span{
+ font-size: 22px;
+ color: white;
+ background-color: rgb(73, 73, 232);
+
+}
+.card1 h4{
+  color: white;
+  padding-left: 80px;
+ background-color: rgb(73, 73, 232);
+
+}
+.card1 h1{
+  color: white;
+  padding-left: 60px;
+  font-size: 70px;
+ background-color: rgb(73, 73, 232);
+}
+.crd{
+  height: 430px;
+}
